@@ -1,10 +1,15 @@
 ---
-title: "Dynamics of Coupled Thermoacoustic Oscillators Under Asymmetric Forcing"
+title: "Paper Title Number 1"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-date: 2021-04-06
-paperurl: 'https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.15.044011'
-citation: ''Sahay, Ankit; Roy, Amitesh; Pawar, Samadhan; Sujith, R.I. (2021). &quot; Dynamics of Coupled Thermoacoustic Oscillators Under Asymmetric Forcing. &quot; <i>Physical Review Applied </i>. 15(4).'
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'Journal 1'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
+This paper is about the number 1. The number 2 is left for future work.
 
-[Download arXiv version here](https://arxiv.org/pdf/2008.09999/v3.pdf)
+[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+
+Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
