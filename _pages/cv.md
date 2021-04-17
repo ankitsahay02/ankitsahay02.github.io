@@ -17,7 +17,7 @@ Education
 Work experience
 ======
 *  2020 - Present: Research Assistant, IIT Madras
-  * Dr. Sujith's Lab, Aerosapce Engineering Department
+  * Dr. Sujith's Lab, Aerospace Engineering Department
   * Supervisor: Professor R. I. Sujith
 
 * Summer 2020: Teaching Assistant, IIT Madras
