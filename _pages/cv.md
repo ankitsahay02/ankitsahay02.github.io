@@ -12,11 +12,11 @@ redirect_from:
 Education
 ======
 * B.Tech. in Mechanical Engineering, Birla Institute of Technology, 2016
-* M.Tech. + Ph.D in Aerospace Engineering, Indian Institute of Technology Madras , 2023 (expected)
+* M.Tech. + Ph.D in Aerospace Engineering, Indian Institute of Technology Madras , 2024 (expected)
 
 Work experience
 ======
-*  2020 - Present: Research Assistant, IIT Madras
+* 2020 - Present: Research Assistant, IIT Madras
   * Dr. Sujith's Lab, Aerospace Engineering Department
   * Supervisor: Professor R. I. Sujith
 
@@ -47,17 +47,3 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
