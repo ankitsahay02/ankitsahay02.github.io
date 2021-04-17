@@ -11,30 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Mechanical Engineering, Birla Institute of Technology, 2016
+* M.Tech. + Ph.D in Aerospace Engineering, Indian Institute of Technology Madras , 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+*  2020 - Present: Research Assistant, IIT Madras
+  * Dr. Sujith's Lab, Aerosapce Engineering Department
+  * Supervisor: Professor R. I. Sujith
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2020: Teaching Assistant, IIT Madras
+  * AS1300 Thermodynamics for Aerospace Engineers
+  * Duties included: Holding tutorials, formulating and grading assignments, grading answer sheets of quizzes and Mid-Semester exams. 
+  * Supervisor: Professor R. I. Sujith
+
+* Fall 2019: Teaching Assistant, IIT Madras
+  * AS1020 Fluid Mechanics
+  * Duties included: Holding tutorials, formulating and grading assignments, grading answer sheets of quizzes and Mid-Semester exams. 
+  * Supervisor: Professor Shantanu Ghosh
+
+* 2016-2018: Assistant Manager
+  * Production Department
+  * Exide Industries Limited
+  * Ahmednagar, Maharashtra
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Matlab, LaTeX
+* Python
+  * NetworkX
 
 Publications
 ======
@@ -56,4 +61,3 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
