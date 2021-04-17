@@ -6,7 +6,7 @@ excerpt: 'Quenching of limit-cycle oscillations (LCOs), either through mutual co
 date: 2021-04-06
 venue: 'Physical Review Applied'
 paperurl: 'https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.15.044011'
-citation: 'Sahay, Ankit; Roy, Amitesh; Pawar, Samadhan A; Sujith, R.I. (2021). &quot;Dynamics of Coupled Thermoacoustic Oscillators Under Asymmetric Forcing.&quot; <i>Physical Review Applied 1</i>. 15(4).'
+citation: 'Sahay, Ankit; Roy, Amitesh; Pawar, Samadhan A; Sujith, R.I. (2021). &quot; Dynamics of Coupled Thermoacoustic Oscillators Under Asymmetric Forcing. &quot; <i>Physical Review Applied </i>. 15(4).'
 ---
 
 [Download arXiv version here](http://128.84.4.27/abs/2008.09999v3)
